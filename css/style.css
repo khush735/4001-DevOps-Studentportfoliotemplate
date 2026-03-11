@@ -1,3 +1,7 @@
+body {
+    background: red !important;
+}
+
 /* General Page Styling */
 body {
     font-family: Arial, Helvetica, sans-serif;
